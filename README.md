@@ -1,6 +1,6 @@
-== README
+# README
 
-=== Using MongoDB in Rails - NghiaMT
+## Using MongoDB in Rails - NghiaMT
 
 Sử dụng Mongoid để tích hợp MongoDB vào Rails (gem “mongoid”)
 
