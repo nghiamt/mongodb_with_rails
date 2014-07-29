@@ -1,3 +1,0 @@
-== README
-
-Using MongoDB in Rails - NghiaMT
